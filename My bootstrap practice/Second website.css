@@ -1,0 +1,38 @@
+body{
+	background-color: lightblue;
+}
+
+.first-box{
+	height: 580px;
+	width: 1000px;
+	border-radius: 20px;
+	margin: auto;
+}
+
+.sec-box{
+	height: 295px;
+	border-bottom-left-radius: 20px;
+	background-color: rgb(29, 129, 133);
+}
+
+.btn{
+	width: 50%;
+	margin-left: 100px;
+	margin-top: 22px;
+}
+
+.third-box{
+	height: 295px;
+	border-bottom-right-radius: 20px;
+	background-color: rgb(76, 195, 199);
+}
+
+
+
+
+
+
+
+
+
+

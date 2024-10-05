@@ -1,0 +1,48 @@
+
+
+
+.head{
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.head-2{
+	font-size: 25px;
+}
+
+.first{
+	margin-left: 160px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.sec{
+	margin-right: 160px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.thd{
+	background-color: rgb(183, 252, 86);
+	margin-left: 160px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.fth{
+	background-color: rgb(132, 138, 245);
+	margin-right: 160px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+

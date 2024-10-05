@@ -1,0 +1,41 @@
+.btn{
+	border-radius: 90px;
+	width: 130px;
+}
+
+.head{
+	font-size: 70px;
+}
+
+.yes{
+	border-style: solid;
+	border-radius: 50%;
+	height: 400px;
+	width: 400px;
+}
+
+input[type=text]{
+	border: none;
+}
+
+.web{
+	font-size: 30px;
+}
+
+.good{
+	width: 1250px;
+	align-items: center;
+	margin: auto;
+}
+
+.next{
+	width: 500px;
+}
+
+.sec{
+	height: 245px;
+}
+
+.progress{
+	width: 500px;
+}
